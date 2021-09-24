@@ -25,11 +25,13 @@
 
 ## Media
 
-![Photo 1](./Develop/assets/photos)
+![The Assignment Required:](./Develop/assets/photos/schoolSite.png)
+
+![What I Produced:](./Develop/assets/photos/mySite.png)
 
 ## Deployed Site
 
-   This is the link to view the project: (https://celestealexmoore.github.io/Celeste-Moore-Portfolio/)
+   This is the link to view the project: (https://celestealexmoore.github.io/mini-portfolio-project/)
 
 ## Features
     - Single-page application
