@@ -25,7 +25,11 @@
 
 ## Media
 
+### The assignment required:
+
 ![The Assignment Required:](./Develop/assets/photos/schoolSite.png)
+
+### What I Produced:
 
 ![What I Produced:](./Develop/assets/photos/mySite.png)
 
