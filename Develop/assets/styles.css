@@ -1,0 +1,74 @@
+body{
+    background-color: white;
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    background-color: rgb(83, 57, 39);
+    color:white;
+    height: 50px;
+    width: 100%;
+    margin: 0;
+    position:fixed;
+    border-bottom: 10px solid rgb(250, 209, 159);
+}
+
+ul li {
+    list-style-type: none;
+    display: inline;
+    text-decoration: none;
+    color:white;
+    padding: 10px;
+    font-size: 20px;
+}
+
+h1{
+    font-size:40px;
+}
+section{
+    margin: 0 auto;
+    padding: 10px;
+    border-bottom: 2px solid rgb(250, 209, 159);
+    color: rgb(83, 57, 39);
+    padding-top:70px;
+}
+
+img{
+    border: 8px solid rgb(83, 57, 39);
+    height:400px;
+    width: 400px;
+    background-color: bisque;
+    padding: 15px;
+}
+
+#contact{
+    color: rgb(83, 57, 39);
+    background-color: bisque;
+    margin:0;
+    padding: 10px;
+}
+
+#form{
+    border: 3px solid rgb(250, 209, 159);
+    border-radius: 10px;
+}
+
+input{
+    height: 15px;
+    width:300px;
+    border: 1px solid rgb(83, 57, 39);
+}
+
+button{
+    background-color: rgb(83, 57, 39);
+    color: white;
+}
+
+footer{
+    background-color: rgb(83, 57, 39);
+    color: bisque;
+    height: 50px;
+    width: 100%;
+}
