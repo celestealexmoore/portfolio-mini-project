@@ -9,8 +9,9 @@ ul{
     background-color: rgb(83, 57, 39);
     color:white;
     height: 50px;
-    width: 100%;
-    margin: 0;
+    width: 95%;
+    margin: 0 auto;
+    text-align:right;
     position:fixed;
     border-bottom: 10px solid rgb(250, 209, 159);
 }
@@ -62,6 +63,7 @@ img{
     margin:0 auto;
     text-align: center;
     padding: 10px;
+    width: 100%;
 }
 
 #form{
