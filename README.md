@@ -35,7 +35,7 @@
 
 ## Deployed Site
 
-   This is the link to view the project: (https://celestealexmoore.github.io/mini-portfolio-project/)
+   This is the link to view the project: (https://celestealexmoore.github.io/portfolio-mini-project/)
 
 ## Features
     - Single-page application
